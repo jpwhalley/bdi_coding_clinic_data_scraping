@@ -10,7 +10,7 @@ Ideally the data we wish to work on can be downloaded in an easy to use format. 
  
 + Selenium: <https://selenium-python.readthedocs.io/> I usually use pip or conda to install packages:  
   
-    `pip install selenium`
+    pip install selenium
   
 or  
   
@@ -18,7 +18,7 @@ or
   
 + Beautiful Soup: <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>  
   
-    `pip install beautifulsoup4`
+    pip install beautifulsoup4
   
 or  
   
